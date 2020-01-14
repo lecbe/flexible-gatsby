@@ -1,17 +1,56 @@
 ---
-title: How To Start Programming
+title: How to start playing like a real pro esport gamer?
 date: 2017-09-12 00:00:00 +0300
-description: # Add post description (optional)
-img: ./how-to-start.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+description: Or maybe instead of playing, you're making money by knowing how to gamble?
+tags: [esports, real game, betting , esports ] # add tag
 ---
 
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+The autopilot will not turn on and you will create a wonderful world around your computer and your favorite game. Whether it's Starcarft, Warcraft, DOTA or something else.  
 
-> Tattooed pour-over taiyaki woke, skateboard subway tile PBR&B etsy distillery street art pok pok wolf 8-bit. Vegan bicycle rights schlitz subway tile unicorn taiyaki.
+Any game that will win hearts and empty your wallets on occasion. And they will still be very pleased. Everyone will be pleased. Strange. Everyone? What do you mean
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+No no no no no.
+Oh, there's still desperation.
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven't heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven't heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+Desperate professional player in Counte Strike. I'm not NEO. I'm not Gl1ve. None of that. Who cares who I am? 
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven't heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90's taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+Just frustrated by not having an idea for a good text will do the nastiest thing for someone to read it
+
+So desperation is also Be.
+That means you have to KNOW what to play.
+Or better not play?
+
+If you're an expert. You're an expert? Or maybe an anthlete?
+I'll tell you in a minute, but there's still some consistency.
+When you notoriously start making money at the bookmaker's for sure, you make yourself a new autopilot.
+
+New neural connections are created, strengthened every time you write something. Do you write analysis on the esport forum ?
+Just write new [esports betting tips](https://esporttalk.org/c/bettings-talks/34)
+A new path, a new type of betting and approach to the esport, which enters your blood and becomes your autopilot!
+
+And then, once you've made it in yourself, even in a situation of uncertainty, on the autopilot, you create brilliant texts!
+
+Well, maybe almost brilliant.
+Nobody and nothing will jump up to you then.
+
+Always ready, always ready - look great and attract the audience. 
+As much as possible.
+Be like NINJA who ran away. The Ninja who sold himself.
+ALWAYS!
+Neurobiology rules!
+
+You want to know how to take that certainty every time you sit down to play and stream?
+Wait a minute, one comment!
+It counts ALWAYS!
+
+Because if you're already aware that every repeated action puts a new neural pathway into your mind, then think about what happens when, for example, every second time you put rubbish into yourself?
+
+
+
+This path must be absolutely clean and flawless.
+Because you'll spoil your autopilot and you'll certainly start writing, but poor texts.
+So you need a clean source!
+
+Real GAME. 
+
+The end of the year is coming, the time of resolutions and new plans - what will you play today?
