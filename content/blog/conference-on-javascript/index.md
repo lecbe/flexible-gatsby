@@ -1,9 +1,9 @@
 ---
-title: My IEM in Katowice 2019
+title: My IEM in Katowice 2019 
 date: 2019-09-10 08:08:00 +0300
-description: Ahhhh this sexyyyyy cosplayer . GG no re
-img: ./js-1.png # Add image post (optional)
-tags: [IEM, esports, CS:GO ] # add tag
+description: Ahhhh this sexyyyyy cosplayer - GG no re
+
+tags: [IEM, esports, CSGO ] # add tag
 ---
 
 One of my holiday dreams was to visit IEM 2019 in Katowice
@@ -33,7 +33,7 @@ Nothing new to me, esport has been my life for 13 years, but there will be a new
 
 Google describes this trend as such:
 
-"Instead of providing answers to your inquiries - play and play again: we'll help you to continue where you left off (...), we'll provide new features in terms of your entertainment experience that will help you to meet the current needs of all kinds of entertainment".
+Instead of providing answers to your inquiries - play and play again: we'll help you to continue where you left off (...), we'll provide new features in terms of your entertainment experience that will help you to meet the current needs of all kinds of entertainment.
 
 Would you like to prepare yourself for this?
 
