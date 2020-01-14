@@ -1,13 +1,41 @@
 ---
-title: Conference on Javascript
-date: 2017-09-10 00:00:00 +0300
-description: # Add post description (optional)
+title: My IEM in Katowice 2019
+date: 2019-09-10 08:08:00 +0300
+description: Ahhhh this sexyyyyy cosplayer . GG no re
 img: ./js-1.png # Add image post (optional)
-tags: [Js, Conference] # add tag
+tags: [IEM, esports, CS:GO ] # add tag
 ---
 
-Jean shorts organic cornhole, gochujang post-ironic chicharrones authentic flexitarian viral PBR&B forage wolf. Man braid try-hard fanny pack, farm-to-table la croix 3 wolf moon subway tile. Single-origin coffee prism taxidermy fashion axe messenger bag semiotics etsy mlkshk chambray. Marfa lumbersexual meditation celiac. Pork belly palo santo artisan meggings vinyl copper mug godard synth put a bird on it. Cloud bread pop-up quinoa, raw denim meditation 8-bit slow-carb. Shaman plaid af cray, hell of skateboard flannel blue bottle art party etsy keytar put a bird on it. Portland post-ironic pork belly kogi, tofu listicle 8-bit normcore godard shabby chic mlkshk flannel deep v pabst. Pork belly kinfolk fingerstache lo-fi raclette. Biodiesel green juice tbh offal, forage bespoke readymade tofu kitsch street art shabby chic squid franzen. Succulents glossier viral, echo park master cleanse fixie cred hammock butcher raclette gastropub. XOXO salvia vexillologist, lumbersexual ennui schlitz coloring book microdosing actually neutra skateboard butcher pinterest post-ironic photo booth.
+One of my holiday dreams was to visit IEM 2019 in Katowice
 
-Four dollar toast blog austin artisan raw denim vinyl woke, salvia hella truffaut meh hexagon. Coloring book church-key humblebrag, ramps whatever etsy pickled put a bird on it marfa swag. Celiac live-edge bushwick, hexagon salvia pok pok neutra four dollar toast PBR&B chartreuse freegan readymade. Meggings cray air plant venmo, deep v tacos scenester you probably haven't heard of them actually. XOXO taiyaki pabst, tofu bespoke mumblecore small batch 8-bit plaid whatever unicorn sustainable drinking vinegar meditation. Synth typewriter viral hot chicken, meh mustache palo santo schlitz listicle pabst keffiyeh artisan etsy stumptown cold-pressed. Occupy locavore cray irony. Chambray whatever vaporware keffiyeh heirloom vice. Single-origin coffee neutra iPhone lyft. Glossier squid direct trade, whatever palo santo fashion axe jean shorts lumbersexual listicle blog bushwick tofu kale chips kinfolk. Bespoke cronut viral paleo, selfies cray blog mustache twee ethical meh succulents bushwick distillery. Hexagon austin cred, subway tile paleo venmo blog 8-bit cronut master cleanse marfa farm-to-table.
+I was at the largest Esport event in 2019 with a larger group of friends and everyone was thinking about it.
+But I was the only one who did it. I was the only one who met the person that everyone was delighted with.
 
-Live-edge vinyl meh, quinoa umami palo santo narwhal letterpress farm-to-table typewriter chartreuse vice tacos leggings. Roof party jean shorts thundercats, kombucha asymmetrical lo-fi farm-to-table. Hell of shoreditch cliche try-hard venmo slow-carb, tofu waistcoat everyday carry neutra cred kickstarter taxidermy wayfarers. Direct trade banh mi pug skateboard banjo edison bulb. Intelligentsia cliche quinoa synth umami. Trust fund four loko hoodie paleo cray tote bag slow-carb ennui. Williamsburg food truck intelligentsia trust fund. Meggings chia vape wayfarers, lo-fi small batch photo booth pop-up cardigan. Typewriter pour-over letterpress, tbh kitsch health goth selfies knausgaard kickstarter listicle you probably haven't heard of them.
+4 hours by a quick catamaran in one and four hours back, but it was worth watching such exciting matches in Counter Strike.
+When I came back in the evening tired but happy, everyone immediately started to ask: and how was the last Astralis match?
+I was telling the story, showing pictures, I was in the center of attention for an hour.
+Not bad for introvertism :)
+
+I thought to myself then: what a wonderful beautiful and sexyyyyy cosplayer.
+
+You don't have to ask anybody's attention. You've had it from the first second.
+
+This type of attention will be more and more necessary for us computer geeks.
+
+Because as Pantara used to say: everything changes :)
+
+There is a huge change coming in the way of running the channel on twitch, youtube and twitter.
+New channels are coming. Esport does not choose.
+
+In short, you will have to focus more on the customer.
+
+Nothing new to me, esport has been my life for 13 years, but there will be a new dimension.
+
+Google describes this trend as such:
+
+"Instead of providing answers to your inquiries - play and play again: we'll help you to continue where you left off (...), we'll provide new features in terms of your entertainment experience that will help you to meet the current needs of all kinds of entertainment".
+
+Would you like to prepare yourself for this?
+
+That's good. 
+
