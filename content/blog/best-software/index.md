@@ -12,7 +12,7 @@ What, just don't say you're playing games again and can't afford it now?
 I just did it because someone else was playing for me at the time :D
 
 
-### But usually the problem is one thing:
+## But usually the problem is one thing:
 The game doesn't have the value that someone else expects from you later on.
 
 
@@ -26,7 +26,7 @@ You know this?
 
 If you have to give too much channel not enough value for the player on the other side. 
 
-### Can you stream games 24/h for free in Europe ??
+## Can you stream games 24/h for free in Europe ??
 
 And can anything be done for free? 
 Not . 
@@ -36,7 +36,7 @@ Period.
 
 A big fan of the Fnatic team in the League of legends wrote me something like this
 
-### By the way.
+## By the way.
 
 Listening to the podcast with you as a guest opened a door in my head.
 It resulted in me approaching the other players completely different than always.
