@@ -1,9 +1,9 @@
 ---
-title: 'My IEM in Katowice 2019'
+title: My IEM in Katowice 2019
 date: 2019-09-10 08:08:00 +0300
-description: Ahhhh this sexyyyyy cosplayer - GG no re
-img: # Add image post (optional)
-tags: [IEM, esports, CSGO ] # add tag
+description: Ahhhh this sexyyyyy cosplayer 
+
+tags: [IEM, esports, CSGO ]
 ---
 
 One of my holiday dreams was to visit IEM 2019 in Katowice
