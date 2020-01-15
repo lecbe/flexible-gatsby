@@ -1,21 +1,19 @@
 ---
-title: 'Go go go on a 3-week vacation' 
+title: Go go go on a 3-week vacation
 date: 2018-05-12 00:00:00 +0300
-description: Even the google from that writes - no more cs go
+description: Even the google from that writes no more cs go
 img: # Add image post (optional)
 tags: [Productivity, Gaming, Relax] # add tag
 ---
 
 
+What, just dont say you are playing games again and can't afford it now?
+I just did it because someone else was playing for me at the time 
 
-What, just don't say you're playing games again and can't afford it now?
-I just did it because someone else was playing for me at the time :D
+## But usually the problem is one
 
 
-## But usually the problem is one thing:
 The game doesn't have the value that someone else expects from you later on.
-
-
 Maybe it's pretty and it's so great, but... it doesn't make money for your holidays.
 So seriously, I would review it in terms of its value for viewers and increase the value.
 Use a streamer that knows what it does!
@@ -45,4 +43,3 @@ I got a viewer who first said there was no budget and then ordered a session wit
 What was that session ? He can't betray !
 
 Defend your value !
-
