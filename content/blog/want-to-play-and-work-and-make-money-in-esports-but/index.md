@@ -1,5 +1,5 @@
 ---
-title: You want to play and work and make money in esports but still
+title: 'You want to play and work and make money in esports but still'
 date: 2019-09-12 00:00:00 +0300
 description: Your time is priceless - how not to waste it
 img: # Add image post (optional)
