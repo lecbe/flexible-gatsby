@@ -70,17 +70,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "YYYY, MMM DD")
         tags
-        img {
-          childImageSharp {
-            fluid(maxWidth: 3720) {
-              aspectRatio
-              base64
-              sizes
-              src
-              srcSet
-            }
-          }
-        }
+
       }
     }
   }
