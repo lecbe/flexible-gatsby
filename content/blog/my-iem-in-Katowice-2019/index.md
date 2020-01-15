@@ -1,5 +1,5 @@
 ---
-title: My IEM in Katowice 2019 
+title: 'My IEM in Katowice 2019'
 date: 2019-09-10 08:08:00 +0300
 description: Ahhhh this sexyyyyy cosplayer - GG no re
 img: # Add image post (optional)
