@@ -2,7 +2,7 @@
 title: You want to play and work and make money in esports but still
 date: 2019-09-12
 description: Your time is priceless - how not to waste it?
-img: ./foto2 # Add image post (optional)
+img: # Add image post (optional)
 tags: [esports, work, money, mixer, twitch, stream , esports betting]
 ---
 
