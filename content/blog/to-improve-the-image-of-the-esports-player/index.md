@@ -1,10 +1,9 @@
 ---
 title: 10 Tips to improve the image of the esports player
 date: 2017-09-12 00:00:00 +0300
-description: # Add post description (optional)
+description: I went to the big computer room and got this answer:
 img: # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [esports, gamer, image, easy, tips, play station] # add tag
+tags: [esports, gamer, image, easy, tips, play-station] # add tag
 ---
 
 
