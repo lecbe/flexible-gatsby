@@ -2,7 +2,7 @@
 title: I'd go on a 3-week vacation 
 date: 2017-09-12 00:00:00 +0300
 description: Even the google from that writes, no more cs go
-img: ./software.jpg
+img: # Add image post (optional)
 tags: [Productivity, Gaming, Relax] # add tag
 ---
 
