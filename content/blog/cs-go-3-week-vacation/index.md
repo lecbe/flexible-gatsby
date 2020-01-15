@@ -1,5 +1,5 @@
 ---
-title: I'd go on a 3-week vacation 
+title: 'Go go go on a 3-week vacation' 
 date: 2018-05-12 00:00:00 +0300
 description: Even the google from that writes - no more cs go
 img: # Add image post (optional)
