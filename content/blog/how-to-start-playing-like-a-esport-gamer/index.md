@@ -1,9 +1,8 @@
 ---
-title: 'How to start playing like a real pro esport gamer?'
+title: How to start playing like a real pro esport gamer?
 date: 2017-09-12 00:00:00 +0300
 description: Or maybe instead of playing, you're making money by knowing how to gamble
-img: # Add image post (optional)
-tags: [esports, real game, betting , esports ] # add tag
+tags: [esports, real game, betting , esports ] 
 ---
 
 The autopilot will not turn on and you will create a wonderful world around your computer and your favorite game. Whether it's Starcarft, Warcraft, DOTA or something else.  
