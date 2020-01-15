@@ -1,8 +1,7 @@
 ---
-title: '10 Tips to improve the image of the esports player'
+title: tips to improve the image of the esports player'
 date: 2019-09-12 00:00:00 +0300
 description: I went to the big computer room and got this answer
-img: # Add image post (optional)
 tags: [esports, work, money, mixer, twitch, stream , esportsbetting]
 ---
 
@@ -26,19 +25,19 @@ Do you remember the backside
 
 - There's heroes 3
 
-- NO!
+- NO
 
 - There is a League of legends
 
-- NO!
+- NO
 
 - It's DOTA 2
 
-- NO!
+- NO
 
-- What is it?
+- What is it
 
-- I AM!
+- I AM
 
 
 Of course I'm making up. There is no such movie. 
