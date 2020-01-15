@@ -1,7 +1,7 @@
 ---
 title: I'd go on a 3-week vacation 
-date: 2017-09-12 00:00:00 +0300
-description: Even the google from that writes, no more cs go
+date: 2018-05-12 00:00:00 +0300
+description: Even the google from that writes - no more cs go
 img: # Add image post (optional)
 tags: [Productivity, Gaming, Relax] # add tag
 ---
@@ -26,7 +26,7 @@ You know this?
 
 If you have to give too much channel not enough value for the player on the other side. 
 
-## Can you stream games 24/h for free in Europe ??
+## Can you stream games 24/h for free in Europe 
 
 And can anything be done for free? 
 Not . 
@@ -36,7 +36,7 @@ Period.
 
 A big fan of the Fnatic team in the League of legends wrote me something like this
 
-## By the way.
+## By the way
 
 Listening to the podcast with you as a guest opened a door in my head.
 It resulted in me approaching the other players completely different than always.
