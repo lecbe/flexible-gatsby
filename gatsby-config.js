@@ -1,12 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: `A better esport world`,
-    description: `I was a professional castor. Almost the best player in Hearthstone.
-Sports analyst, mostly football and hockey. 
-Now, the broadly defined esports industry expert`,
+    description: `I was a professional castor. Almost the best player in Hearthstone.Sports analyst, mostly football and hockey. Now, the broadly defined esports industry expert`,
     author: `Sami Laasanen`,
     siteUrl: `https://www.ledner.info/`,
     social: {
+      facebook: ``,
+      github: `-`,
+      linkedin: `-`,
       twitter: `https://twitter.com/xseveNcsgo`,
       email: `esportseveryday@gmail.com`,
     },
