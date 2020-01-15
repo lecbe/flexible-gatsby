@@ -1,9 +1,9 @@
 ---
 title: 10 Tips to improve the image of the esports player
-date: 2017-09-12 00:00:00 +0300
-description: I went to the big computer room and got this answer:
+date: 2019-09-12 00:00:00 +0300
+description: I went to the big computer room and got this answer
 img: # Add image post (optional)
-tags: [esports, gamer, image, easy, tips, play-station] # add tag
+tags: [esports, work, money, mixer, twitch, stream , esports-betting]
 ---
 
 
