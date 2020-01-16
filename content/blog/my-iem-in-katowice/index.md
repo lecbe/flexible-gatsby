@@ -2,7 +2,7 @@
 title: My IEM in Katowice 2019
 date: 2019-09-10 08:08:00 +0300
 description: Ahhhh this sexyyyyy cosplayer 
-
+img: ./esl-iem.png # Add image post (optional)
 tags: [IEM, esports, CSGO ]
 ---
 
