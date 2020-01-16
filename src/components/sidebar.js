@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
-import Logo from './pic.jpg'
+import Logo from './esport-trader.png'
 
 const Sidebar = ({ siteMetadata }) => (
   <>
