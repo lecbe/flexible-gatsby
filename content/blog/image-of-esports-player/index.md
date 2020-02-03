@@ -1,5 +1,5 @@
 ---
-title: tips to improve the image of the esports player'
+title: Tips to improve the image of the esports player
 date: 2019-09-12 00:00:00 +0300
 description: I went to the big computer room and got this answer
 tags: [esports, work, money, mixer, twitch, stream , esportsbetting]
