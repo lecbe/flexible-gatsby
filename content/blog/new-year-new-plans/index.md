@@ -1,8 +1,8 @@
 
 ---
-title: New year's new plans - what about your growth?
+title: New year and new plans - what about your growth?
 date: 2020-01-12 07:00:00 +0300
-description: Even the google from that writes no more cs go
+description: Of course, don't think that in gaming house you'll learn everything at once
 tags: [New year, Gaming, Gaming House] # add tag
 ---
 
