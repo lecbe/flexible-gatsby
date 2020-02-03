@@ -1,9 +1,9 @@
-
 ---
 title: New year and new plans - what about your growth?
 date: 2020-01-12 07:00:00 +0300
-description: Of course, don't think that in gaming house you'll learn everything at once
-tags: [New year, Gaming, Gaming House] # add tag
+description: Of course, dont think that in gaming house you willll learn everything at once
+img: ./4.png
+tags: [New year, Gaming, Gaming House]
 ---
 
 A gamer's career will only happen once. The path must be absolutely clear and without any flaw. Someone who finances gaming house will tell you.
