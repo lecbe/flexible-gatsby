@@ -3,7 +3,7 @@ title: A good candidate for the player
 date: 2020-01-29 14:11:00 +0300
 description: Your time is priceless - how not to waste it
 img: ./9.png
-tags: [esports, candidate, job, money, mixer, twitch, stream,]
+tags: [esports, candidate, job, money, mixer, twitch, stream]
 ---
 
 
@@ -26,7 +26,7 @@ I would like to warn you that I do not know how to recruit or write job advertis
 
 If I had to point out only one thing in the proper creation of a player's image, which has the greatest impact on effectiveness, I would point out two:
 
-1) Your knowledge.
+1. Your knowledge.
 2. your attitude.
 3. your culture.
 4. your skills
