@@ -1,8 +1,9 @@
+---
 title: I remember using the tips and analysis of one of the users on the forum
 date: 2020-02-08 19:20:00 +0300
 description: What's a valuable e-sports advice?
 img: ./esport12.png
-tags: [esports advice, tips, csgo, talks]
+tags: [esports advice, tips, csgo, talks, valuable]
 ---
 
 
