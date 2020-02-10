@@ -2,6 +2,7 @@
 title: You want to play and work and make money in esports but still
 date: 2019-09-12 00:00:00 +0300
 description: Your time is priceless - how not to waste it
+img: ./esport0.png
 tags: [esports, work, money, mixer, twitch, stream , esports, betting]
 ---
 
@@ -30,7 +31,7 @@ And so the patterns of every streamer are thoughtlessly duplicated on or off [tw
 
 Yeah, you even turn on the knowledge from primary school, how you should "correctly" write!
 But what do you know about streaming from esports Riot main center ??
-Would you like to start a new chapter in your Esperanto player's life today?
+Would you like to start a new chapter in your esports player's life today?
 Alternatively, try your hand at [betting on warcraft](https://esporttalk.org/tags/c/bettings-talks/insider-picks-and-analyses/46/warcraft-3) . But do I have a prescription to win? 
 
 
