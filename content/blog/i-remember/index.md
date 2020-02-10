@@ -11,7 +11,7 @@ I think it will be valuable for you when I show you this way of "fighting" the l
 
 One of CSGO's match typing wrote me this:
 
---
+
 There wasn't a week when I wouldn't think about how to communicate interestingly with a group of types in this gaming industry...
 
 and I'm still at the starting point.
@@ -28,14 +28,14 @@ I feel some kind of blockage in my head, and I know that breaking it up can help
 
 What am I skipping? Any clues?
 
--
+
 
 I've been reading the esports forum recently and checking the analysis and reading something like [CS:go tips](https://esporttalk.org/tag/counter-strike
 ) category
 
 The contestant is dizzy. The player is not able to play on 100% of his skills and additionally the whole organization is in very poor financial condition.
 
---
+
 
 A concrete thing, huh? Is this good prediciton ? Anyway better than most..
 

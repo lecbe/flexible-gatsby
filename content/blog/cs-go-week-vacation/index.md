@@ -2,6 +2,7 @@
 title: Go go go on a 3-week vacation
 date: 2018-05-12 05:00:00 +0300
 description: Even the google from that writes no more cs go
+img: ./esport16.png
 tags: [Productivity, Gaming, Relax] # add tag
 ---
 

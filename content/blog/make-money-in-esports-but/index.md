@@ -32,7 +32,7 @@ And so the patterns of every streamer are thoughtlessly duplicated on or off [tw
 Yeah, you even turn on the knowledge from primary school, how you should "correctly" write!
 But what do you know about streaming from esports Riot main center ??
 Would you like to start a new chapter in your esports player's life today?
-Alternatively, try your hand at [betting on warcraft](https://esporttalk.org/tags/c/bettings-talks/insider-picks-and-analyses/46/warcraft-3) . But do I have a prescription to win? 
+Alternatively, try your hand at [betting on warcraft](https://esporttalk.org/tags/c/bettings-talks/insider-picks-and-analyses/46/warcraft-3). But do I have a prescription to win? 
 
 
 Let's start with the uncertainty situation itself.
