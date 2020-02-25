@@ -74,9 +74,11 @@ const Sidebar = ({ siteMetadata }) => (
         <div className="copyright">
           <p>
             {new Date().getFullYear()} &copy; {siteMetadata.author}
-  <a href="https://www.flashscore.com/esports/">eSports Results</a>
-  <a href="https:/esporttalk.org/">esports betting</a>
           </p>
+
+Also check
+<p>  <a href="https://www.flashscore.com/esports/">eSports Results</a> for major leagues and tournaments</p>
+<p> Csgo tips, League of Legends prediction - <a href="https:/esporttalk.org/">eEports Betting</a> experts competitions </p>
         </div>
       </footer>
     </aside>
