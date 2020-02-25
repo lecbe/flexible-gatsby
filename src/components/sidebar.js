@@ -39,6 +39,7 @@ const Sidebar = ({ siteMetadata }) => (
                 >
                   <i className="fa fa-facebook" aria-hidden="true" />
                 </a>
+  <a href="https://www.flashscore.com/esports/">eSports Results</a>
               </li>
             )}
             {siteMetadata.social.github && (
