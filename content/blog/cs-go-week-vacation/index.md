@@ -43,3 +43,19 @@ I got a viewer who first said there was no budget and then ordered a session wit
 What was that session ? He can't betray !
 
 Defend your value !
+
+
+
+
+<div id='discourse-comments'></div>
+
+<script type="text/javascript">
+  DiscourseEmbed = { discourseUrl: 'https://lecbet.com/',
+                     discourseEmbedUrl: 'https://www.ledner.info/ };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
