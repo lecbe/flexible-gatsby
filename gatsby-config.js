@@ -13,7 +13,7 @@ Now, the broadly defined esports industry expert`,
       facebook: false,
       github: false,
       linkedin: false,
-      email: `esportsmwomans@gmail.com`,
+      email: `esportleague@protonmail.com`,
     },
   },
   plugins: [
