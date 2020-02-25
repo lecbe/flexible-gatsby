@@ -45,13 +45,11 @@ What was that session ? He can't betray !
 Defend your value !
 
 
-
-
 <div id='discourse-comments'></div>
 
 <script type="text/javascript">
   DiscourseEmbed = { discourseUrl: 'https://lecbet.com/',
-                     discourseEmbedUrl: 'https://www.ledner.info/ };
+                     discourseEmbedUrl: 'https://www.ledner.info/cs-go-week-vacation/ };
 
   (function() {
     var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
@@ -59,3 +57,5 @@ Defend your value !
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
   })();
 </script>
+
+
