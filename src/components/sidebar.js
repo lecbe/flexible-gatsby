@@ -77,7 +77,7 @@ const Sidebar = ({ siteMetadata }) => (
           </p>
 Also check
 <p>  <a href="https://www.flashscore.com/esports/">eSports Results</a> for major leagues and tournaments</p>
-<p> Csgo tips, League of Legends prediction - <a href="https://esporttalk.org/">eEports Betting</a> experts competitions </p>
+<p> Csgo tips, League of Legends prediction - <a href="https://esporttalk.org/">eSports Betting</a> experts competitions </p>
         </div>
       </footer>
     </aside>
