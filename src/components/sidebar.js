@@ -75,8 +75,7 @@ const Sidebar = ({ siteMetadata }) => (
           <p>
             {new Date().getFullYear()} &copy; {siteMetadata.author}
           </p>
-Also check
-<p>  <a href="https://www.flashscore.com/esports/">eSports Results</a> for major leagues and tournaments</p>
+
 
         </div>
       </footer>
