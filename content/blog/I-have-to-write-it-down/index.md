@@ -2,7 +2,7 @@
 title: I have to write it down
 date: 2020-03-01 07:00:00 +0300
 description: All the time one and the same gamer problem
-img: ./esport16.png
+img: ./esportsnow.png
 tags: [Mental, Academy, Pro Gaming, Esport, Train Hard] # add tag
 ---
 
@@ -43,7 +43,7 @@ One.
 
 Unfortunately, this problem has strong roots.
 
-It's like a weed that keeps growing back.
+## It's like a weed that keeps growing back.
 
 Until you pull the root out, it'll keep jamming everything around.
 
@@ -56,7 +56,7 @@ I recently got an answer that included a sentence:
 
 And that's what we sometimes need more than extensive courses and training.
 
-Knock yourself on the head: why am I complicating my professional playing?
+## Knock yourself on the head: why am I complicating my professional playing?
 
 Because it's only the man who can and must want to, and not the techniques, tricks, tricks, tutorials. It doesn't even depend on your company or on the Coach, that is me... (joke)
 
@@ -71,5 +71,6 @@ Sorry, but that's because of the lack of confidence...
 
 It's not a technical problem, it's a mental one.
 
-
+..
+Wait.. I warned you at the beginning. It won't be easy.
 
