@@ -3,7 +3,9 @@ module.exports = {
    
         title: `A better esport world`,
     description: `I was a professional castor. Almost the best player in Hearthstone. Sports analyst, mostly football and hockey. 
-Now, the broadly defined esports industry expert`,
+Now, the broadly defined esports industry expert
+Current cooperation with Nissan and the / <a href="https://esporttalk.org">Esportal</a> Forum to support smaller and medium sized esports organisations
+`,
     author: `Sami Laasanen`,
     siteUrl: `https://www.ledner.info/`,
     
