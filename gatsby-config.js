@@ -2,9 +2,12 @@ module.exports = {
   siteMetadata: {
    
         title: `A better esport world`,
-    description: `I was a professional castor. Almost the best player in Hearthstone. Sports analyst, mostly football and hockey. 
-Now, the broadly defined esports industry expert https://esporttalk.org
-Current cooperation with Nissan and the <a href="https://esporttalk.org">Esportal</a> forum to support smaller and medium sized esports organisations
+    description: `
+I was a professional castor. Almost the best player in Hearthstone. Sports analyst, mostly football and hockey.
+
+Now, the broadly defined **esports** industry expert 
+
+Current cooperation with Nissan and the [Esportal](https://esporttalk.org/) forum to support smaller and medium sized esports organisations. I worked on last year's MSI in the League of Legends
 `,
     author: `Sami Laasanen`,
     siteUrl: `https://www.ledner.info/`,
