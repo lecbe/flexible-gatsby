@@ -75,6 +75,7 @@ const Sidebar = ({ siteMetadata }) => (
         <div className="copyright">
           <p>
             {new Date().getFullYear()} &copy; {siteMetadata.author}
+c693122ea772b421e63a0062a35881f20a6eba60
           </p>
 
 
