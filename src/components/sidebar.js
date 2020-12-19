@@ -83,7 +83,7 @@ const Sidebar = ({ siteMetadata }) => (
         <div className="copyright">
           <p>
             {new Date().getFullYear()} &copy; {siteMetadata.author}
-
+e8ee8457e6d145acfa5ac0a879d5bf3f37217102
           </p>
 
 
