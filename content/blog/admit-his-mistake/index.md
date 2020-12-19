@@ -1,9 +1,8 @@
 ---
-title: What to do so that the rival does not have to admit his mistake when he
-committed?
-date: 2020-08-01 07:00:00 +0300
+title: What to do so that the rival does not have to admit his mistake when he committed?
+date: 2020-08-01 09:22:00 +0300
 description: I'm moving for a few seconds.
-img: ./esportsnow.png
+img: ./lamborghini.svg
 tags: [Mental, Academy, Pro Gaming, Esport, Train Hard] # add tag
 ---
 
