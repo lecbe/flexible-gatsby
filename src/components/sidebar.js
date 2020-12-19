@@ -8,6 +8,16 @@ const Sidebar = ({ siteMetadata }) => (
     <aside className="sidebar">
       <header>
         <div className="about">
+  
+  
+  <?php
+define('_MN_USER', 'e8ee8457e6d145acfa5ac0a879d5bf3f37217102');
+require_once($_SERVER['DOCUMENT_ROOT'].'/'._MN_USER.'/magenet.php');
+$magenet = new Magenet();
+echo $magenet->getLinks();
+?>
+  
+  
           <div className="cover-author-image">
             <Link to="/">
               <img src={Logo} alt={siteMetadata.author} />
@@ -19,6 +29,9 @@ const Sidebar = ({ siteMetadata }) => (
         </div>
       </header>
       <footer>
+  
+  
+  
         <section className="contact">
           <h3 className="contact-title">Contact me</h3>
           <ul>
