@@ -2,7 +2,7 @@
 title: What to do so that the rival does not have to admit his mistake when he committed?
 date: 2020-08-01 09:22:00 +0300
 description: I'm moving for a few seconds.
-img: ./lamborghini.svg
+img: ./file-7.jpg
 tags: [Mental, Academy, Pro Gaming, Esport, Train Hard] # add tag
 ---
 
