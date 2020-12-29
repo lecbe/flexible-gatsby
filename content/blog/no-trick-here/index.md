@@ -1,6 +1,5 @@
 ---
-title: There is no trick here, it takes another force to make this resistance
-overcome.
+title: There is no trick here, it takes another force to make this resistance overcome.
 date: 2017-03-11 07:00:00 +0300
 description: The idea was to make it simple to manually copy the database of addressees to a specific place.
 img: ./1.png
