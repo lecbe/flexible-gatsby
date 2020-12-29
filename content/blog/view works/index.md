@@ -1,6 +1,5 @@
 ---
-title: That's the way the view works
-into your product.
+title: That's the way the view works into your product.
 date: 2019-03-12 22:00:00 +0300
 description: Imagination when a customer tries to place a product in the context of your life to see if that's it.
 img: ./5.png
