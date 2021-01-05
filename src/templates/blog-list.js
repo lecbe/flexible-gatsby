@@ -75,7 +75,7 @@ class BlogIndex extends React.Component {
 
               )}
             </ul>
-<span> advertisement: <a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a> </span
+<span> advertisement: <a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a> </span>
           </nav>
         </div>
       </DefaultLayout>
