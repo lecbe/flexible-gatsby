@@ -72,6 +72,8 @@ class BlogIndex extends React.Component {
                     Next Page →
                   </Link>
                 </p>
+advertisement:
+<a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a>
               )}
             </ul>
           </nav>
