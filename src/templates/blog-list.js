@@ -71,13 +71,11 @@ class BlogIndex extends React.Component {
                   <Link to={nextPage} rel="next" className="older-posts">
                     Next Page →
                   </Link>
-</br>
-advertisement:
-<a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a>
                 </p>
 
               )}
             </ul>
+<span> advertisement: <a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a> </span
           </nav>
         </div>
       </DefaultLayout>
