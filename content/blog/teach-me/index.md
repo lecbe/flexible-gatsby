@@ -2,7 +2,7 @@
 title: Of course my fantastic offer! And she wrote yes in response
 date: 2016-10-09 07:34:00 +0300
 description: Teach me to write lightly and with humor - can you do it?
-img: ./7.png
+img: https://raw.githubusercontent.com/imagus/img/main/1.jpg
 tags: [fantastic, offer, disappointed, humor] # add tag
 ---
 
