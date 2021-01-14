@@ -75,7 +75,10 @@ class BlogIndex extends React.Component {
 
               )}
             </ul>
-<span> advertisement: <a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a> </span>
+advertisement: 
+<p> <a href="https://blackmarketarmsales.com" target="_blank">Buy firearms online blackmarketarmsales</a></p> 
+<p>  Are you looking for an ideal & easy way to earn more? Then, Satta King Online is certainly an ideal way to try your luck out by simply guessig on a few satta numbers, investing some money and play online in the following order to live like a king. <a href="https://www.sattaking-online.com" target="_blank">satta king online</a> Play satta king with the help of using any sort of modern smartphone device or your laptop wherein the satta platforms allows you to register yourself as a satta player to take part in the lottery game.</p> 
+
           </nav>
         </div>
       </DefaultLayout>
