@@ -7,7 +7,7 @@ I was a professional castor. Almost the best player in Hearthstone. Sports analy
 Now, the broadly defined esports industry expert.
 `,
     author: `Sami Laasanen`,
-    siteUrl: `https://ledner.info/`,
+    siteUrl: `https://ledner.info`,
     
     
     social: {
@@ -19,6 +19,12 @@ Now, the broadly defined esports industry expert.
     },
   },
   plugins: [
+  {
+    resolve: `gatsby-plugin-canonical-urls`,
+    options: {
+      siteUrl: `https://ledner.info`,
+    },
+  },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
